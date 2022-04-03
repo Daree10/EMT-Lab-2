@@ -11,3 +11,5 @@ const BookService = {
         return axios.get("/books")
     }
 }
+
+export default EBookService;
